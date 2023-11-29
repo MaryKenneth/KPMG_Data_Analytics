@@ -15,6 +15,7 @@ The KPMG virtual data analytics internship is a free, virtual, and educational p
 ## Repository Structure
 - **Data Quality Assessment:**
   - Data_Quality_Issues.pdf: Solution to Task 1.
+  - Data_exploration.ipynb: Python file for Exploratory Data Analysis
 - **Data Insights:**
   - Data_Insight_Presentation.pptx: Solution to Task 2.
 - **Summary Dashboard:**
